@@ -9,8 +9,6 @@ Related to "Creating" at https://github.com/vanHeemstraSystems/creating
 
 Related to "Learning" at https://github.com/vanHeemstraSystems/learning
 
-Related to "" at 
-
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
