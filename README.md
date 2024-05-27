@@ -3,7 +3,8 @@ start-learning-creating-finishing
 
 ![Start Learning Creating Finishing](https://github.com/vanHeemstraSystems/start-learning-creating-finishing/assets/1499433/1e915670-c1b4-4443-864c-ab8264ed5916)
 
-== Start Finishing is the **time** dimension to Learning and Creating ==
+
+== Start Finishing (```WHEN```) is the **time** dimension to Learning and Creating ==
 
 Related to "Start Finishing" at https://github.com/vanHeemstraSystems/start-finishing
 
