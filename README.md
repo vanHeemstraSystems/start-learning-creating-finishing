@@ -1,7 +1,7 @@
 start-learning-creating-finishing
 # Start Learning Creating Finishing
 
-![Start Learning Creating Finishing](https://github.com/vanHeemstraSystems/start-learning-creating-finishing/assets/1499433/1e915670-c1b4-4443-864c-ab8264ed5916)
+![Start Finishing - Stages](https://github.com/vanHeemstraSystems/start-learning-creating-finishing/assets/1499433/949b0b90-663c-4c21-a0f9-bd17a117e0fb)
 
 == [Learning](https://github.com/vanHeemstraSystems/learning/) (```WHAT```) is the counterpart of [Creating](https://github.com/vanHeemstraSystems/creating/) (```HOW```), like Yin (Black) and Yang (White) == <br>
 == [Start Finishing](https://github.com/vanHeemstraSystems/start-finishing/) (```WHEN```) is the **time** dimension of Learning and Creating ==
